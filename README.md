@@ -13,3 +13,6 @@ Each member was responsible for different modul of the whole rudder system.
 | analyzers        | add                   | Szymon     |
 | preprocessing    | add                   | Michał     |
 | utils            | add                   | Łukasz     |
+
+## My task
+....
