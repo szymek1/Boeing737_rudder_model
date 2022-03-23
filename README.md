@@ -14,5 +14,5 @@ Each member was responsible for different modul of the whole rudder system.
 | preprocessing    | add                   | Michał     |
 | utils            | add                   | Łukasz     |
 
-## My task
+##  Description
 ....
